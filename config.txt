@@ -1,6 +1,6 @@
-owner=516473846983950336
+owner=412547940654252053
 prefix=1
-game=play
+game= Its Cazanova
 stayinchannel=true
 songinstatus=false
-token=NTMyOTM4ODQ4ODA4ODYxNzE5.DxjzfA.Nss_r9BRZ1VEpyeHgketTem5q_o
+token=NTg4MjgwNTYzMDIzMjE2NjQw.XQC1CQ.lBmGgOPYBlMVQTnbNY8N76pwXCU
