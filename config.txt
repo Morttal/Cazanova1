@@ -1,5 +1,5 @@
 owner=412547940654252053
-prefix=1
+prefix=1play
 game= Its Cazanova
 stayinchannel=true
 songinstatus=false
